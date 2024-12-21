@@ -3,7 +3,7 @@ name: Modifier le README
 on:
   push:
     branches:
-      - main  # Déclenchement lorsque l'on push sur main
+      - Branche-1  # Déclenchement lorsque l'on push sur main
   workflow_dispatch:  # Permet de déclencher manuellement le workflow
 
 jobs:
